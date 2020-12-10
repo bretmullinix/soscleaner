@@ -1,0 +1,4 @@
+ipaddr==2.2.0
+pip2pi==0.8.1
+pipdeptree==1.0.0
+soscleaner @ file:///home/bmullini/python/content/var/www/packages/soscleaner-0.4.4.tar.gz
