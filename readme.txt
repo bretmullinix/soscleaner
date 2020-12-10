@@ -4,5 +4,5 @@
 
   3. activate the virtual enviroment (source venv/bin/activate)
 
-  4. pip install --no-index --find-links /home/bmullinix/python/content/var/www/packages /home/bmullinix/python/content/var/www/packages/soscleaner-0.4.4.tar.gz
+  4. pip install --no-index --find-links /home/bmullinix/content/var/www/packages /home/bmullinix/content/var/www/packages/soscleaner-0.4.4.tar.gz
 
